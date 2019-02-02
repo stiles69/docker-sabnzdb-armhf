@@ -4,4 +4,4 @@
 
 ## docker-sabnzdb-armhf
 
-*Docker sabnzdb for raspberrypi. 
+*Docker sabnzdb for raspberrypi.* 
